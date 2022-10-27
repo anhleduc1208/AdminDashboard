@@ -2,15 +2,15 @@ import pic1 from "./picture.jpeg";
 
 export const userData = [
 	{
-		name: "Jan 11",
+		name: "Jan 11 3",
 		"Active User": 4000,
 	},
 	{
-		name: "Feb 2 2",
+		name: "Feb 2 2 2",
 		"Active User": 1200,
 	},
 	{
-		name: "Mar 3 3",
+		name: "Mar 3 3 3",
 		"Active User": 3200,
 	},
 	{
